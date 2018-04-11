@@ -1,0 +1,1 @@
+qt_translations.py
