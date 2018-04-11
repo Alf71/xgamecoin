@@ -1,0 +1,9 @@
+Building XGamecoin
+
+See doc/readme-qt.rst for instructions on building XGamecoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of XGamecoin.
+
+See doc/build-*.txt for instructions on building xgamecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of XGamecoin.
