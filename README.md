@@ -1,5 +1,5 @@
 
-XGamecoin development tree
+XGamecoin
 
 XGamecoin is a PoS-based cryptocurrency.
 
